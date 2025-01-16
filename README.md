@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h3 align="center">A Graduate Robotics Engineer at Technical University of Delft, The Netherlands 🇳🇱</h3>
 
 
-### Contnent Creator
+## Content Creator
 I also like to create content about robotics:
 * **Website 🌐**: [Personal Website](https://flaviogheri.github.io/)
 * **YouTube 📹**: [Tinkering Robot](https://youtube.com/@tinkeringrobot)
 * **Instructables 🤖**: [gheriarnaudflavio](https://www.instructables.com/member/gheriarnaudflavio)
 
-## Not as much used
+### Not as much used
 * **Bluesky 🦋:**: [robotica](https://bsky.app/profile/robotica.bsky.social)
 * **Blog Posts 📄**: [Medium](https://medium.com/@gheriarnaudflavio)
 
