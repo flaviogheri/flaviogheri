@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Graduate Robotics Engineer at Technical University of Delft, The Netherlands 🇳🇱</h3>
 
 
-## Content Creator
+## Content Creation
 I also like to create content about robotics:
 * **Website 🌐**: [Personal Website](https://flaviogheri.github.io/)
 * **YouTube 📹**: [Tinkering Robot](https://youtube.com/@tinkeringrobot)
