@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **flaviogheri/flaviogheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there 👋, I'm Flavio-A. Gheri</h1>
+<h3 align="center">A Graduate Robotics Engineer at Technical University of Delft, The Netherlands 🇳🇱</h3>
+
+
+### Contnent Creator
+I also like to create content about robotics:
+* **Website 🌐**: [Personal Website](https://flaviogheri.github.io/)
+* **YouTube 📹**: [Tinkering Robot](https://youtube.com/@tinkeringrobot)
+* **Instructables 🤖**: [gheriarnaudflavio](https://www.instructables.com/member/gheriarnaudflavio)
+
+## Not as much used
+* **Bluesky 🦋:**: [robotica](https://bsky.app/profile/robotica.bsky.social)
+* **Blog Posts 📄**: [Medium](https://medium.com/@gheriarnaudflavio)
+
+### Experience/Education 
+* MSc in Robotics at Technical University of Delft
+  * Specialized in AI and SLAM
+  * Worked as AI engineer in Lunar Zebro (lunar rover student team)
+  * Completed Internship in simulation, path planning and AI at NATO
+  
+* BSc in Mechanical Engineering at University of Southampton
+  * President of Robotics Association
+  * Mac Challenge (Marine Autonomy Challenge)
+
+### Interests and hobbies
+- Robotics/ROS2 🤖
+- Tinkering 🛠️
+- Filmography 🎥
+- Rugby 🏉
+- Meeting new People
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/guillem-ribes-espurz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gribes" height="30" width="40" /></a>
+<a href="https://medium.com/@gribes03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gribes03" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gribes02&show_icons=true&locale=en" alt="gribes02" /></p>
