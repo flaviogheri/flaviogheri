@@ -27,7 +27,7 @@ I also like to create content about robotics:
 * **Bluesky 🦋:**: [robotica](https://bsky.app/profile/robotica.bsky.social)
 * **Blog Posts 📄**: [Medium](https://medium.com/@gheriarnaudflavio)
 
-### Experience/Education 
+## Experience/Education 
 * MSc in Robotics at Technical University of Delft
   * Specialized in AI and SLAM
   * Worked as AI engineer in Lunar Zebro (lunar rover student team)
@@ -37,7 +37,7 @@ I also like to create content about robotics:
   * President of Robotics Association
   * Mac Challenge (Marine Autonomy Challenge)
 
-### Interests and hobbies
+## Interests and hobbies
 - Robotics/ROS2 🤖
 - Tinkering 🛠️
 - Filmography 🎥
