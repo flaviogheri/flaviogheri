@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ## Content Creation
 I also like to create content about robotics:
 * [**Website 🌐**](https://flaviogheri.github.io/)
-* **Linkedin 💼**: [Linkedin](https://www.linkedin.com/in/flavio-gheri/)
-* **Twitter 🐦**: [Twitter](https://x.com/flavio_robotics)
-* 
+* [**Linkedin 💼**](https://www.linkedin.com/in/flavio-gheri/)
+* [**Twitter 🐦**:](https://x.com/flavio_robotics)
 
+<!--
 ## Experience/Education 
 * MSc in Robotics at Technical University of Delft
   * Specialized in AI and SLAM
@@ -33,6 +33,7 @@ I also like to create content about robotics:
 * BSc in Mechanical Engineering at University of Southampton
   * President of Robotics Association
   * Mac Challenge (Marine Autonomy Challenge)
+-->
 
 ## Interests and hobbies
 - Robotics/ROS2 🤖
