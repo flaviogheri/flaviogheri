@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Content Creation
 I also like to create content about robotics:
-* **Website 🌐**: [Personal Website](https://flaviogheri.github.io/)
+* [**Website 🌐**](https://flaviogheri.github.io/)
 * **Linkedin 💼**: [Linkedin](https://www.linkedin.com/in/flavio-gheri/)
 * **Twitter 🐦**: [Twitter](https://x.com/flavio_robotics)
 * 
