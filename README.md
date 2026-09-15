@@ -14,18 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Flavio-A. Gheri</h1>
-<h3 align="center">A Graduate Robotics Engineer at Technical University of Delft, The Netherlands 🇳🇱</h3>
+<h3 align="center">Founder in Residence, EF | Robotics Engineer</h3>
 
 
 ## Content Creation
 I also like to create content about robotics:
 * **Website 🌐**: [Personal Website](https://flaviogheri.github.io/)
-* **YouTube 📹**: [Tinkering Robot](https://youtube.com/@tinkeringrobot)
-* **Instructables 🤖**: [gheriarnaudflavio](https://www.instructables.com/member/gheriarnaudflavio)
-
-### Not as much used
-* **Bluesky 🦋:**: [robotica](https://bsky.app/profile/robotica.bsky.social)
-* **Blog Posts 📄**: [Medium](https://medium.com/@gheriarnaudflavio)
+* **Linkedin 💼**: [Linkedin](https://www.linkedin.com/in/flavio-gheri/)
+* **Twitter 🐦**: [Twitter](https://x.com/flavio_robotics)
+* 
 
 ## Experience/Education 
 * MSc in Robotics at Technical University of Delft
