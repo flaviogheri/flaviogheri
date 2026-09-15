@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I also like to create content about robotics:
 * [**Website 🌐**](https://flaviogheri.github.io/)
 * [**Linkedin 💼**](https://www.linkedin.com/in/flavio-gheri/)
-* [**Twitter 🐦**:](https://x.com/flavio_robotics)
+* [**Twitter 🐦**](https://x.com/flavio_robotics)
 
 <!--
 ## Experience/Education 
